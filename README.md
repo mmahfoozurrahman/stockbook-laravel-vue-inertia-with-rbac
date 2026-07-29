@@ -294,12 +294,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   If you found this project useful, please consider giving it a ⭐ star on GitHub!
   
   Your support helps motivate us to keep improving and maintaining this project.
-  
-  <br><br>
-  
-  [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/anotherstockbook&type=Date)](https://star-history.com/#yourusername/anotherstockbook&Date)
-  
-  <br><br>
-  
-  Made with ❤️ by the AnotherStockBook community
 </p>
+  
