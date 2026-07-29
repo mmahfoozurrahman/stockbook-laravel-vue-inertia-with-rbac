@@ -63,20 +63,16 @@ Whether you're managing a personal library or a community bookshelf, StockBook o
 - Personal dashboard with reading statistics
 - **Bookmarks** - Save and organize favorite books
 - **Profile Management** - Update personal information
-- Reading history and recommendations
 
 ### 🔐 **Authentication System**
 - Secure login and registration
 - Role-based access control
-- Password reset functionality
 - Session management
 
 ### 🎨 **Design & UX**
 - Modern, clean UI with custom SCSS styling
 - Responsive design for mobile, tablet, and desktop
 - Smooth animations and transitions
-- Accessibility-focused components
-- Dark/light theme support
 
 ---
 
