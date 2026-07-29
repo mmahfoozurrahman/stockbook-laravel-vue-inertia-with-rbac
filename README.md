@@ -127,14 +127,13 @@ anotherstockbook/
 
 | Technology | Description |
 |------------|-------------|
-| **Laravel 11** | PHP framework for backend logic |
+| **Laravel 11+** | PHP framework for backend logic |
 | **Vue.js 3** | Frontend JavaScript framework |
 | **Inertia.js** | Seamless server/client rendering |
 | **Vite** | Fast build tool and dev server |
 | **SCSS** | CSS preprocessor for styling |
 | **Bootstrap Icons** | Icon library |
 | **MySQL** | Database management |
-| **Tailwind CSS** | Utility-first CSS framework |
 
 ---
 
