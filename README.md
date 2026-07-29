@@ -292,7 +292,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   If you found this project useful, please consider giving it a ⭐ star on GitHub!
-  
-  Your support helps motivate us to keep improving and maintaining this project.
 </p>
   
